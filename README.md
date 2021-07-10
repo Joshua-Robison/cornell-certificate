@@ -1,6 +1,6 @@
 # eCornell
 
-This repository contains coursework from a professional data science and machine learning certificate.
+This repository contains coursework from a professional machine learning certificate completed through Cornell.
 
 The certificate consists of seven courses:
 - Problem Solving with Machine Learning
