@@ -1,4 +1,4 @@
-# eCornell
+# Cornell Certificate
 
 This repository contains coursework from a professional machine learning certificate completed through Cornell.
 
